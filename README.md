@@ -1,4 +1,4 @@
 # to run in terminal :
 
-chmod a+x atgui
+chmod a+x atgui </br>
 ./atgui
